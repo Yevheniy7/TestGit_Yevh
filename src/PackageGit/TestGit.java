@@ -8,5 +8,9 @@ public class TestGit {
 		this.gitFromScratch = parameter;
 	}
 	
+	public String  retunrt();{
+	return  this.gitFromScratch();
+	}
+	
 	
 }
