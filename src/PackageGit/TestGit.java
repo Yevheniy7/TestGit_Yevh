@@ -12,5 +12,9 @@ public class TestGit {
 	return  this.gitFromScratch();
 	}
 	
+	public static void main(String [] args) {
+		
+	}
+	
 	
 }
